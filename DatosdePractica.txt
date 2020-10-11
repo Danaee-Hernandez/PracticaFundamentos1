@@ -4,3 +4,5 @@ juegos actuales: pokemon go
 juegos favoritos:Silent Hill
 carrera:ingenieria geologica
 especialidad:sin especialidad
+materia:
+semestre:
