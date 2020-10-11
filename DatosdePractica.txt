@@ -1,4 +1,4 @@
-nombre:
-edad:
-juegos actuales:
-juegos favoritos:
+nombre:Valeria Danaee Hernandez Sanchez
+edad:24 años
+juegos actuales: pokemon go
+juegos favoritos:Silent Hill
